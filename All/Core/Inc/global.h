@@ -18,10 +18,10 @@
 
 #define TIMER_CYCLE		10
 
-#define MODE_0_7SEG		111
-#define MODE_1_7SEG		112
-#define VALUE_0_7SEG	222
-#define VALUE_1_7SEG	223
+#define MODE_0_7SEG		100
+#define MODE_1_7SEG		101
+#define VALUE_0_7SEG	200
+#define VALUE_1_7SEG	201
 
 #define YELLOW_TIME		2
 #define GREEN_TIME		3
